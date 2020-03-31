@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DdppApplication<ddpp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.doosan.ddpp.DdppApplication",
+            "projectName": "ddpp",
+            "args": ""
+        }
+    ]
+}
